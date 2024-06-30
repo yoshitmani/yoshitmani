@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS,JavaScript
 - 📫 How to reach me :
 - Mail:yoshitmani8@gmail.com,
-- Insta:yoshit.mani,
+- Insta:https://www.instagram.com/yoshit.mani/
 - LinkedIn:www.linkedin.com/in/yoshit-mani-507124273
 
 <!---
